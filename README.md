@@ -1,12 +1,26 @@
-<img src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif" height="300"><br>
+<center><img src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif" height="300" width="450"></center>
 
-### Hi there, I'm - [Vikash Maurya][website] 👋
+<center>
 <br>
+
+## Hi there, 👋 I'm
+# [Vikash Maurya][website]
+
+<br>
+
 
 [![Website](https://img.shields.io/website?label=vikashmaurya&style=for-the-badge&url=https://www.vikashmaurya.in)](https://www.vikashmaurya.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/VikashMaurya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/official_maurya&screen_name=official_maurya)
 
+
+
 ## I'm a passionate Full Stack Developer from India.
+
+</center>
+
+<br>
+
+# 🙋‍♂️ About Me
 
 🔭 I’m currently working on Covid-19 Tracker
 
@@ -117,7 +131,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrVikashMaurya&langs_count=8&theme=highcontrast&layout=compact)](https://github.com/MrVikashMaurya/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrVikashMaurya&langs_count=8&theme=highcontrast&layout=compact)](https://github.com/MrVikashMaurya/github-readme-stats)
 
 <br>
 
