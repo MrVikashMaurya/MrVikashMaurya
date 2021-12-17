@@ -1,12 +1,8 @@
 
 <center>
- <br>
 
 ## Hi there, 👋 I'm
 # [Vikash Maurya][website]
-
-
- <br>
 
 
 [![Website](https://img.shields.io/website?label=vikashmaurya&style=for-the-badge&url=https://www.vikashmaurya.in)](https://www.vikashmaurya.in)
