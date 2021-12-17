@@ -1,14 +1,14 @@
 
-<center>
+<p align= "center">
 <img align = "center" src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif" height="300" width="450">
 
-</center>
+</p>
 
 <br>
 
 <center>
 
-# Hi there, 👋 I'm
+## Hi there, 👋 I'm
 # [Vikash Maurya][website]
 
 <br>
