@@ -1,8 +1,7 @@
 
 <center>
 
-## Hi there, 👋 I'm
-# [Vikash Maurya][website]
+## Hi there, 👋 I'm [Vikash Maurya][website]
 
 
 [![Website](https://img.shields.io/website?label=vikashmaurya&style=for-the-badge&url=https://www.vikashmaurya.in)](https://www.vikashmaurya.in)
