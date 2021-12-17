@@ -6,7 +6,7 @@
 
 <br>
 
-<center>
+<p align ="center">
 
 ## Hi there, 👋 I'm
 # [Vikash Maurya][website]
@@ -21,7 +21,7 @@
 
 ## I'm a passionate Full Stack Developer from India.
 
-</center>
+</p>
 
 <br>
 
