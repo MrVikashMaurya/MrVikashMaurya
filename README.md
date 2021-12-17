@@ -11,7 +11,8 @@
 ## Hi there, 👋 I'm
 # [Vikash Maurya][website]
 
-<br>
+</p>
+ <br>
 
 
 [![Website](https://img.shields.io/website?label=vikashmaurya&style=for-the-badge&url=https://www.vikashmaurya.in)](https://www.vikashmaurya.in)
@@ -21,7 +22,7 @@
 
 ## I'm a passionate Full Stack Developer from India.
 
-</p>
+
 
 <br>
 
