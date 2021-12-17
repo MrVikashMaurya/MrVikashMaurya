@@ -1,17 +1,10 @@
 
-<p align= "center">
-<img align = "center" src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif" height="300" width="450">
-
-</p>
-
-<br>
-
-<p align ="center">
+<center>
 
 ## Hi there, 👋 I'm
 # [Vikash Maurya][website]
 
-</p>
+
  <br>
 
 
