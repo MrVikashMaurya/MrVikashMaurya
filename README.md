@@ -7,16 +7,16 @@
 [![Website](https://img.shields.io/website?label=vikashmaurya&style=for-the-badge&url=https://www.vikashmaurya.in)](https://www.vikashmaurya.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/VikashMaurya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/official_maurya&screen_name=official_maurya)
 
-## I'm a passionate Full Stack Developer from India.
+## I'm a passionate SOFTWARE ENGINEER from India.
 
 </center>
 
 
 # 🙋‍♂️ About Me
 
-🔭 I’m currently working on Covid-19 Tracker
+🔭 I’m a SOFTWARE ENGINEER & currently working in HCL TECHNOLOGIES.
 
-🌱 I’m currently learning Data Structures and Algorithms.
+🌱 I’m currently learning Data Structures and Algorithms & DATA SCIENCE.
 
 👯 I’m looking to collaborate on OpenSource Projects
 
@@ -129,4 +129,3 @@
 <br>
 
 [![Vikash Maurya github activity graph](https://activity-graph.herokuapp.com/graph?username=MrVikashMaurya&theme=react-dark)](https://github.com/MrVikashMaurya/github-readme-activity-graph)
-
