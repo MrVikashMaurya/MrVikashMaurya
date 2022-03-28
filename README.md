@@ -4,7 +4,7 @@
 ## Hi there, 👋 I'm [Vikash Maurya][website]
 
 
-[![Website](https://img.shields.io/website?label=vikashmaurya&style=for-the-badge&url=https://www.vikashmaurya.in)](https://www.vikashmaurya.in)
+[![Website](https://img.shields.io/website?label=vikashmaurya&style=for-the-badge&url=https://linktr.ee/Vikash_Maurya)](https://linktr.ee/Vikash_Maurya)
 [![Twitter Follow](https://img.shields.io/twitter/follow/VikashMaurya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/official_maurya&screen_name=official_maurya)
 
 ## I'm a passionate SOFTWARE ENGINEER from India.
